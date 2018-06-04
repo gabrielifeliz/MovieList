@@ -9,8 +9,8 @@ public class MovieList{
         // Create Scanner object
         Scanner keyboard = new Scanner(System.in);
 
-        // Initialize array length with value 100
-        String[] movieList = new String[100];
+        // Initialize array length with value 1000
+        String[] movieList = new String[1000];
         // Initialize movie with empty string and sentinel with letter "n"
         String movie = "", sentinel = "n";
 
